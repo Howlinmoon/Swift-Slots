@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import UIKIT
+import UIKit
 
 class Factory {
     class func createSlots() -> [[Slot]] {
